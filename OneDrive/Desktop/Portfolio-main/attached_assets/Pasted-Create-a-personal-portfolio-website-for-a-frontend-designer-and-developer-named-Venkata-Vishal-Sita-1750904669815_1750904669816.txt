@@ -1,0 +1,65 @@
+Create a personal portfolio website for a frontend designer and developer named "Venkata Vishal Sitamraju". The website should be:
+
+1. **Visually Stunning** – Use modern, elegant UI with lots of white space, smooth transitions, and high-contrast elements.
+2. **Minimal Yet Impactful** – The layout must be clean and non-cluttered, with a clear hierarchy, but still rich in visual flair.
+3. **Uses Three.js** – Integrate subtle and lightweight 3D.js (Three.js) animations such as a spinning interactive object or floating particles in the background on the landing section.
+4. **Responsive Design** – Should work perfectly across desktop, tablet, and mobile devices.
+5. **Dark Mode Toggle** – Include a switch to toggle between dark and light themes.
+6. **SEO Friendly** – Use semantic HTML, proper meta tags, and fast load times.
+7. **Fast Loading** – Use code splitting and optimization for performance.
+
+### 📁 Page Structure:
+
+1. **Landing/Home**
+   - 3D animated hero section with a custom object (e.g., a glowing rotating wireframe globe or morphing blob).
+   - Text: "Hi, I'm Vishal – I build stunning, modern UIs that make users fall in love."
+   - Call-to-action button: “Let’s Connect” → scrolls to Contact.
+
+2. **About**
+   - Short but engaging bio (focus on creativity + results).
+   - Highlights frontend skills: ReactJS, Tailwind CSS, GSAP, Framer Motion, Three.js.
+
+3. **Portfolio**
+   - Showcase 4–6 selected projects.
+   - Each card opens a modal or separate page with:
+     - Screenshot/video
+     - Description
+     - Technologies used
+     - Link to live site and GitHub
+   - Add filters for type: [Web App, Landing Page, 3D Experience].
+
+4. **Services**
+   - List offerings with icons: Web Design, Web Development, Interactive Prototypes, 3D Web Experiences.
+   - Add a unique offering: **"Custom Animated Resume Sites"** – tailored single-page CVs with motion graphics (this will help Vishal stand out for both recruiters and freelance clients).
+
+5. **Testimonials**
+   - Placeholder for 2-3 client/recruiter testimonials (dummy data).
+   - Carousel style with smooth fade-in/out transitions.
+
+6. **Contact**
+   - Stylish contact form.
+   - Include social links (LinkedIn, GitHub, Email).
+   - Embed a unique “Chat with Me” floating button that opens a friendly intro bot using simple JavaScript.
+
+7. **Footer**
+   - Brand tagline: “Designed with care. Built to impress.”
+   - Minimal copyright.
+
+### 🎨 Design & UX
+
+- Use Tailwind CSS or SCSS for styling.
+- Animations: use Framer Motion + GSAP for scroll & hover effects.
+- Fonts: Use Google Fonts like Inter, Poppins, or Sora.
+- Color palette: Sleek dark + accent color (electric blue or neon violet).
+- Transitions: smooth scroll, animated page transitions.
+
+### ⚙️ Tech Stack
+
+- React (or plain HTML/CSS/JS if React is not supported)
+- Tailwind CSS or SCSS
+- Three.js
+- GSAP / Framer Motion
+- Responsive, accessible, performant
+
+Please generate the complete folder structure and code (HTML/CSS/JS) with minimal dummy content where needed, ready to deploy.
+
